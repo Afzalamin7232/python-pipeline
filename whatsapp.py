@@ -9,7 +9,6 @@ from time import sleep
 from urllib.parse import quote
 import os
 import pandas as pd
-import pyautogui as gui
 
 #customize and configure the behavior of a browser when controlled by the WebDriver
 options = Options()
